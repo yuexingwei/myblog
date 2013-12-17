@@ -1,4 +1,4 @@
-myblog
+myblogProject
 ======
 
-GitHub Blod配套项目
+GitHub Blog配套项目
